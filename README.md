@@ -1,1 +1,1 @@
-This is a project for learning Git with Flatiron's Learn course.
+This is a project for learning Git with Flatiron's Learn-Verified course. 
